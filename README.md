@@ -1,5 +1,7 @@
-# movie-app
+
+# To use this movie app
 npm install
+
 npm start
 
 ## Technologies Used
